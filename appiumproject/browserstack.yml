@@ -1,0 +1,14 @@
+userName: savangattu_PUXF3H
+accessKey: wo5y9mfnFcvNwHbTxxGA
+platforms:
+  - os: android
+    osVersion: 13
+    appium:app: C:/Users/savan.gattu/eclipse-workspace/appiumproject/src/main/java/resourse/Apk's/General-Store.apk
+    appium:automationName: UIAutomator2
+browserstackLocal: true
+buildName: bstack-demo
+buildIdentifier: ${DATE_TIME}
+projectName: appiumproject
+debug: true
+networkLogs: true
+consoleLogs: info
